@@ -329,3 +329,11 @@ catch(error)
 {
   //Success
 }
+
+
+/*Unit tests in Javascript
+A test typically consist of two components:
+1. The code to be tested 
+2. The test for the code
+*/
+
